@@ -1,2 +1,0 @@
-# wic
-windows image compressor
